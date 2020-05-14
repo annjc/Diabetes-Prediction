@@ -1,2 +1,2 @@
 # Diabetes-Prediction
-Trying to implement the paper 'Improved logistic regression model for diabetes prediction by integrating PCA and K-means techniques'.
+Prediction of Diabetes using K-means clustering + Logistic Regression on PIMA Indians Diabetes dataset.
